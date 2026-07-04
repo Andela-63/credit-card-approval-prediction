@@ -63,7 +63,7 @@ notebook itself). Then choose **Runtime → Run all**. No installation needed.
 
 **Option 2 — Locally:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-card-approval-prediction.git
+git clone https://github.com/Andela-63/credit-card-approval-prediction.git
 cd credit-card-approval-prediction
 pip install -r requirements.txt
 jupyter notebook Credit_Card_Approval_Prediction.ipynb
