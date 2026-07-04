@@ -10,7 +10,7 @@ An end-to-end machine learning project that predicts whether a bank should
 Logistic Regression model trained on real-world financial data from the UCI
 Machine Learning Repository.
 
-> ⚠️ Update `YOUR_USERNAME` in the badge above (and in the notebook) with
+> ⚠️ Update `Andela-63` in the badge above (and in the notebook) with
 > your own GitHub username after pushing this repo, so the "Open in Colab"
 > button works for anyone visiting your profile.
 
